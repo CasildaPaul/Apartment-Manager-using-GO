@@ -1,0 +1,17 @@
+Apartment ID,Owner,Resident,Owner is Resident
+1,Alex,Alex,Yes
+2,Ben,Vacant,No
+3,Charlie,David,No
+4,Emma,Vacant,No
+5,Frank,Vacant,No
+6,George,Henry,No
+7,Ivy,Vacant,No
+8,Jack,Jack,Yes
+9,Kevin,Lisa,No
+10,Michael,Vacant,No
+11,Nancy,Vacant,No
+101,Olivia,Olivia,Yes
+102,Peter,Quinn,No
+103,Rachel,Vacant,No
+104,Sam,Sam,Yes
+105,Tom,Ursula,No
